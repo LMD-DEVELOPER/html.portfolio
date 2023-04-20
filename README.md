@@ -1,2 +1,2 @@
-# html.portfolio
+# html-portfolio
 This is my website.
